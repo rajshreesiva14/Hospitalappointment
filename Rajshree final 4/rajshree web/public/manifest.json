@@ -1,0 +1,27 @@
+{
+  "short_name": "RajshreeCare",
+  "name": "Rajshree Multispeciality Hospital OPD & Appointment System",
+  "description": "Book OPD doctor appointments, track health records, consult specialists, and view digital OPD consultation slips.",
+  "start_url": "/",
+  "id": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#042f2e",
+  "theme_color": "#0d9488",
+  "categories": ["medical", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

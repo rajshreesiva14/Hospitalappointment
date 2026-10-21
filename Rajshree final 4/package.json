@@ -1,0 +1,13 @@
+{
+  "name": "rajshree-web-root",
+  "private": true,
+  "workspaces": [
+    "rajshree web"
+  ],
+  "scripts": {
+    "dev": "npm --prefix \"rajshree web\" run dev",
+    "build": "npm --prefix \"rajshree web\" run build",
+    "test": "npm --prefix \"rajshree web\" test",
+    "lint": "npm --prefix \"rajshree web\" run lint"
+  }
+}
